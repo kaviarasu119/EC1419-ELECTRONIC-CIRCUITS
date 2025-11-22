@@ -30,7 +30,7 @@
 
 
 ## **Result**
-<img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+![WhatsApp Image 2025-11-22 at 22 40 23_f1f1acf4](https://github.com/user-attachments/assets/0f75a435-631b-44b9-92d4-ed7001663e15)
 
 **VOLTAGE GAIN =**
 
